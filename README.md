@@ -28,7 +28,7 @@ My portfolio combines real-world leadership, deep technical execution, and forwa
 
 ## 🚀 Featured Projects
 
-### [`orbital-arch-sim`](https://github.com/RubySummers101/orbital-arch-sim) *(In Progress)*
+### [`orbital-arch-sim`] *(In Progress)*
 > **Simulating tradeoffs in real-world space system design.**  
 A systems architecture simulator for orbital missions, modeling spacecraft, propulsion, and ground segment integration. Includes MBSE-aligned documentation, system context diagrams, and Python modules for trade studies and mission performance analysis.  
 ⚙️ *Python | Systems Architecture | MBSE | Trade Studies | Space Mission Design*
