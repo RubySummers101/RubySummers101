@@ -1,7 +1,7 @@
 # Hi, I’m Bren 👋  
 **Cybersecurity Director | AI in Healthcare | Ethical Innovation | Veteran**
 
-Welcome to my GitHub. I bring 18+ years of experience leading cybersecurity, IT, and risk mitigation initiatives across military and mission-critical environments. My work bridges the gap between **technical execution** and **strategic leadership**, with a growing focus on **AI-driven healthcare security** and **early intervention systems** that prevent failure before it happens.
+Welcome to my GitHub. I bring 19 years of experience leading cybersecurity, IT, and risk mitigation initiatives across military and mission-critical environments. My work bridges the gap between **technical execution** and **strategic leadership**, with a growing focus on **AI-driven healthcare security** and **early intervention systems** that prevent failure before it happens.
 
 ---
 
