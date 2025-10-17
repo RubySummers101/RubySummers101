@@ -1,4 +1,4 @@
-# Hi, I’m Bren 👋  
+# Hi, I’m Brenden 👋  
 **Principal Systems Architect (Space) | Cyber Resilience Leader | Human-Centered Mission Design**
 
 Welcome to my GitHub. I bring 19 years of experience leading cybersecurity, IT, and systems integration efforts across classified, mission-critical environments. I specialize in designing resilient architectures for **space systems**, with a focus on integrating cyber-secure, data-informed solutions that support both the **technical demands of on-orbit operations** and the **human requirements for long-duration mission success**.
